@@ -2,8 +2,8 @@
 
 Aqui estão algumas coisas sobre mim:
 
-- 🔭 Atualmete trabalho com operações em ambiente Cloud.
-- 🌱 Atualmete estou estudando ferramentas e a cultura DevOps.
+- 👨‍💻 Atualmete trabalho com operações em ambiente Cloud.
+- 📖 Atualmete estou estudando ferramentas e a cultura DevOps (Automações para CI/CD).
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=matheusdguerra&theme=radical)
 
